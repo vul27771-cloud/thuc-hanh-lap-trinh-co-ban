@@ -1,3 +1,8 @@
+print("sinh vien : le hoang vu")
+
+print("ma so sv :245751030110084")
+
+print("#############################")
 def sap_xep(ds):
     """Hàm sắp xếp danh sách tăng dần"""
     return sorted(ds)
@@ -32,3 +37,4 @@ vi_tri_min = ds.index(nho_nhat)
 # In kết quả
 print("Danh sách sau khi sắp xếp:", ds_sap_xep)
 print("Phần tử lớn nhất:", lon_nhat, "ở vị trí:")
+
