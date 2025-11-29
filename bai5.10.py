@@ -1,3 +1,8 @@
+print("sinh vien : le hoang vu")
+
+print("ma so sv :245751030110084")
+
+print("#############################")
 def bubbleSort(nlist):
     """
     Sắp xếp danh sách nlist theo thuật toán nổi bọt (Bubble Sort).
@@ -15,3 +20,4 @@ while len(lst) != n:
     lst = list(map(int, input().split()))
 sorted_list = bubbleSort(lst)
 print("Danh sách đã sắp xếp:", sorted_list)
+
