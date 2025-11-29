@@ -1,3 +1,8 @@
+print("sinh vien : le hoang vu")
+
+print("ma so sv :245751030110084")
+
+print("#############################")
 import numpy as np
 data_type = [('name', 'U20'),  
              ('height', float),
@@ -15,3 +20,4 @@ print(student_array)
 sorted_array = np.sort(student_array, order='height')
 print("\nMảng sau khi sắp xếp theo chiều cao:")
 print(sorted_array)
+
