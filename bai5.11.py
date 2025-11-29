@@ -1,3 +1,8 @@
+print("sinh vien : le hoang vu")
+
+print("ma so sv :245751030110084")
+
+print("#############################")
 import numpy as np
 
 # Dữ liệu sinh viên: (Tên, Lớp, Chiều cao)
@@ -22,3 +27,4 @@ sorted_students = np.sort(students, order=['class', 'height'])
 
 print("\nMảng sau khi sắp xếp (theo lớp, rồi chiều cao):")
 print(sorted_students)
+
