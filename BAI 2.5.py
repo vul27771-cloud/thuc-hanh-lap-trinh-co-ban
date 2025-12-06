@@ -1,3 +1,6 @@
+print("Sinh vien: LE HOANG VU")
+print("Ma so SV : 245751030110084")
+print("#############################")
 a = "Hello Guy!"
 
 def say():
@@ -7,3 +10,4 @@ def say():
 
 say()
 print(a)
+
