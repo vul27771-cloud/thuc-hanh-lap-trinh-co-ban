@@ -1,3 +1,6 @@
+print("sinh vien : le hoang vu")
+
+print("ma so sv :245751030110084")
 class XuLyChuoi:
     def __init__(self):
         self.chuoi = ""
@@ -8,3 +11,4 @@ class XuLyChuoi:
 obj = XuLyChuoi()
 obj.get_String()
 obj.print_String()
+
