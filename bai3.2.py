@@ -1,3 +1,8 @@
+print("sinh vien : le hoang vu")
+
+print("ma so sv :245751030110084")
+
+print("#############################")
 class Hinhchunhat:
     def __init__(self, chieu_dai, chieu_rong):
         self.chieu_dai = chieu_dai
@@ -6,3 +11,4 @@ class Hinhchunhat:
         return self.chieu_dai * self.chieu_rong
 hcn = Hinhchunhat(5, 3)
 print("Diện tích hình chữ nhật là:", hcn.dientich())
+
