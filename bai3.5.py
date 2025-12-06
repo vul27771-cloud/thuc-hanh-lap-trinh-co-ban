@@ -1,3 +1,6 @@
+print("sinh vien : le hoang vu")
+
+print("ma so sv :245751030110084")
 class DaoNguocChuoi:
     def __init__(self, chuoi):
         self.chuoi = chuoi
@@ -10,3 +13,4 @@ chuoi_vao = "hello .py"
 obj = DaoNguocChuoi(chuoi_vao)
 print("Chuỗi ban đầu:", chuoi_vao)
 print("Chuỗi sau khi đảo:", obj.dao_nguoc_tu())
+
