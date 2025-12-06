@@ -1,3 +1,6 @@
+print("Sinh vien: LE HOANG VU")
+print("Ma so SV : 245751030110084")
+print("#############################")
 s = input("Nhập chuỗi số nhị phân: ")
 lst = s.split(',')
 
@@ -8,3 +11,4 @@ for b in lst:
         result.append(b)
 
 print(",".join(result))
+
