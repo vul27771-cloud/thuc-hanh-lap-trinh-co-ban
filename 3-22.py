@@ -1,3 +1,6 @@
+print("Sinh vien: LE HOANG VU")
+print("Ma so SV : 245751030110084")
+print("#############################")
 output = []
 
 for num in range(1000, 3001):
@@ -6,3 +9,4 @@ for num in range(1000, 3001):
         output.append(s)
 
 print(",".join(output))
+
