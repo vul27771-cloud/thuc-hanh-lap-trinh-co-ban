@@ -1,3 +1,8 @@
+print("sinh vien : le hoang vu")
+
+print("ma so sv :245751030110084")
+
+print("#############################")
 class RomanToInteger:
     def __init__(self, roman):
         self.roman = roman.upper()  
@@ -25,3 +30,4 @@ class RomanToInteger:
 roman_number = RomanToInteger("MCMXCIV")
 print("Số La Mã:", roman_number.roman)
 print("Giá trị số nguyên:", roman_number.to_int())
+
