@@ -1,3 +1,6 @@
+print("Sinh vien: LE HOANG VU")
+print("Ma so SV : 245751030110084")
+print("#############################")
 def get_sum(*num):
     tmp = 0
     # duyệt các tham số
@@ -7,3 +10,4 @@ def get_sum(*num):
 
 result = get_sum(1, 2, 3, 4, 5)
 print(result)
+
