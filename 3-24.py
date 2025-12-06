@@ -1,3 +1,6 @@
+print("Sinh vien: LE HOANG VU")
+print("Ma so SV : 245751030110084")
+print("#############################")
 s = input("Nhập câu: ")
 
 chu_hoa = 0
@@ -11,3 +14,4 @@ for ch in s:
 
 print("Chữ hoa:", chu_hoa)
 print("Chữ thường:", chu_thuong)
+
