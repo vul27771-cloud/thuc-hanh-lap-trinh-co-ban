@@ -1,8 +1,9 @@
-print("Sinh vien: LE TRONG TRUNG")
-print("Ma so SV : 245751030110070")
+print("Sinh vien: LE TRONG VU")
+print("Ma so SV : 245751030110084")
 print("#############################")
 
 def say_hello():
     a = "Hello"
     print(a)
 say_hello()
+
