@@ -1,3 +1,6 @@
+print("sinh vien : le hoang vu")
+
+print("ma so sv :245751030110084")
 import math
 class Circle:
     def __init__(self, radius):
@@ -10,3 +13,4 @@ r = float(input("Nhập bán kính hình tròn: "))
 c = Circle(r)
 print("Diện tích hình tròn là:", c.area())
 print("Chu vi hình tròn là:", c.perimeter())
+
