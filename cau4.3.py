@@ -1,5 +1,5 @@
-print("Sinh vien: LE TRONG TRUNG")
-print("Ma so SV : 245751030110070")
+print("Sinh vien: LE HOANG VU")
+print("Ma so SV : 245751030110084")
 print("############################")
 ###################################
 
@@ -21,6 +21,7 @@ aNu = Nu()
 
 print(aNam.getGender()) 
 print(aNu.getGender())   
+
 
 
 
