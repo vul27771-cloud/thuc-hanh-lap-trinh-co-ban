@@ -1,5 +1,5 @@
-print("Sinh vien: LE TRONG TRUNG")
-print("Ma so SV : 245751030110070")
+print("Sinh vien: LE HOANG VU")
+print("Ma so SV : 245751030110084")
 print("############################")
 ###################################
 
@@ -17,3 +17,4 @@ class Hinhchunhat:
 # Ví dụ sử dụng
 hcn = Hinhchunhat(5, 3)
 print("Diện tích hình chữ nhật là:", hcn.dien_tich())
+
