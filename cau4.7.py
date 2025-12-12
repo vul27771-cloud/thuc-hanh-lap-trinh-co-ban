@@ -1,5 +1,5 @@
-print("Sinh vien: LE TRONG TRUNG")
-print("Ma so SV : 245751030110070")
+print("Sinh vien: LE HOANG VU")
+print("Ma so SV : 245751030110084")
 print("############################")
 ###################################
 
@@ -16,3 +16,4 @@ class Circle:
 c = Circle(5)
 print("Diện tích hình tròn:", c.area())
 print("Chu vi hình tròn:", c.circumference())
+
